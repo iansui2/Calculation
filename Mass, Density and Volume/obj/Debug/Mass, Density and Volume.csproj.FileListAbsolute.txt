@@ -1,0 +1,7 @@
+c:\users\ian sui\source\repos\C#\Mass, Density and Volume\Mass, Density and Volume\bin\Debug\Mass, Density and Volume.exe.config
+c:\users\ian sui\source\repos\C#\Mass, Density and Volume\Mass, Density and Volume\bin\Debug\Mass, Density and Volume.exe
+c:\users\ian sui\source\repos\C#\Mass, Density and Volume\Mass, Density and Volume\bin\Debug\Mass, Density and Volume.pdb
+c:\users\ian sui\source\repos\C#\Mass, Density and Volume\Mass, Density and Volume\obj\Debug\Mass, Density and Volume.csprojResolveAssemblyReference.cache
+c:\users\ian sui\source\repos\C#\Mass, Density and Volume\Mass, Density and Volume\obj\Debug\Mass, Density and Volume.csproj.CoreCompileInputs.cache
+c:\users\ian sui\source\repos\C#\Mass, Density and Volume\Mass, Density and Volume\obj\Debug\Mass, Density and Volume.exe
+c:\users\ian sui\source\repos\C#\Mass, Density and Volume\Mass, Density and Volume\obj\Debug\Mass, Density and Volume.pdb
